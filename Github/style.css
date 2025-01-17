@@ -95,7 +95,7 @@ details[open] img {
     width: 95%;
     border-radius: 7.5px;
     outline: none;
-    border: 1px solid gray;
+    border: 1px solid rgb(119, 118, 118);
     margin: 5px 0;
     padding: 12px 8px;
 }
